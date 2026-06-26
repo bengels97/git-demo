@@ -6,3 +6,5 @@ Assuming a remote repository already exists. Stepts to take:
 3. Modify files
 4. GIT COMMIT -M <commit message>
 5. GIT PUSH
+
+Is my authentication working now?
