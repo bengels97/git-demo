@@ -6,5 +6,3 @@ Assuming a remote repository already exists. Stepts to take:
 3. Modify files
 4. GIT COMMIT -M <commit message>
 5. GIT PUSH
-
-Tom doesn't really know about git :D 
